@@ -1,4 +1,3 @@
-
 def solution(word):
     answer = 0
     weight=[781,156,31,6,1]
